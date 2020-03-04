@@ -1,4 +1,5 @@
 # author : alfaton gans
+#
 
 import os,json,shutil,requests,re,sys,time
 from bs4 import BeautifulSoup as sup
@@ -193,7 +194,7 @@ while True:
 {G}\__ \ '_ \/ _` | '  \{B} (_) |  _| '_ \\
 {G}|___/ .__/\__,_|_|_|_{B}\___/ \\__| .__/
 {G}    |_|              {B}         |_|{W}
-    {_R}[ {Y}Author {W}:{C} Alfaton Julianto {_R}]
+    {_R}[ {Y}Author {W}:{C} alfaton gans {_R}]
     {_R}[ {Y}Github {W}: Github.com/Allfaton {_R}]
     {_R}[ {Y}Team   {W}: Xiuz.{R}Sec {_R}]
     {_R}[ {Y}Version {W}: 1.2 {_R}]{W}
